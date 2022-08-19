@@ -1,2 +1,5 @@
-# fake-tombola
-Tombola made with JavaFX for UniTN programming course
+# Tombola!
+Tombola made with JavaFX
+
+![](tombola.png)
+
